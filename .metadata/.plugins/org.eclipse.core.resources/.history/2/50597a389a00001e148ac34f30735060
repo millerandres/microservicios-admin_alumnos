@@ -1,0 +1,5 @@
+package com.digitalPlus.microservicios.app.usuarios.models.entity;
+
+public class Alumno {
+
+}
